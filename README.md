@@ -1,6 +1,9 @@
 # FilamentFuser
 Arduino Shield and Sketch for a 3D Printer Filament Fuser
 
+The shield is stacked between an Arduino UNO R3 and the Adafruit LCD Shield Kit w/ 16x2 Character Display (https://www.adafruit.com/product/772) 
+
+## Design
 Requirements:
 - Control temperature [R1]
 - Show set and current temperature [R2]
